@@ -6,7 +6,7 @@
 
 
 
-##### Utilização FrameWork .Net para aplicação em Console.
+##### Utilização Framework ".Net 6.0" para aplicação em Console.
 
 
 
