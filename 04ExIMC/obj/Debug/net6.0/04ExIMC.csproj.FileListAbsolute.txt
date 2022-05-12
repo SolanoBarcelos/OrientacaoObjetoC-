@@ -1,0 +1,15 @@
+C:\Users\solan\Desktop\OO C#\04ExIMC\bin\Debug\net6.0\04ExIMC.exe
+C:\Users\solan\Desktop\OO C#\04ExIMC\bin\Debug\net6.0\04ExIMC.deps.json
+C:\Users\solan\Desktop\OO C#\04ExIMC\bin\Debug\net6.0\04ExIMC.runtimeconfig.json
+C:\Users\solan\Desktop\OO C#\04ExIMC\bin\Debug\net6.0\04ExIMC.dll
+C:\Users\solan\Desktop\OO C#\04ExIMC\bin\Debug\net6.0\04ExIMC.pdb
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\04ExIMC.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\04ExIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\04ExIMC.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\04ExIMC.AssemblyInfo.cs
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\04ExIMC.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\04ExIMC.dll
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\refint\04ExIMC.dll
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\04ExIMC.pdb
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\04ExIMC.genruntimeconfig.cache
+C:\Users\solan\Desktop\OO C#\04ExIMC\obj\Debug\net6.0\ref\04ExIMC.dll

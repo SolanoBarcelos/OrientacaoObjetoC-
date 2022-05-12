@@ -1,0 +1,15 @@
+C:\Users\solan\Desktop\OO C#\03ExEscolar\bin\Debug\net6.0\03ExEscolar.exe
+C:\Users\solan\Desktop\OO C#\03ExEscolar\bin\Debug\net6.0\03ExEscolar.deps.json
+C:\Users\solan\Desktop\OO C#\03ExEscolar\bin\Debug\net6.0\03ExEscolar.runtimeconfig.json
+C:\Users\solan\Desktop\OO C#\03ExEscolar\bin\Debug\net6.0\03ExEscolar.dll
+C:\Users\solan\Desktop\OO C#\03ExEscolar\bin\Debug\net6.0\03ExEscolar.pdb
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\03ExEscolar.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\03ExEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\03ExEscolar.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\03ExEscolar.AssemblyInfo.cs
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\03ExEscolar.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\03ExEscolar.dll
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\refint\03ExEscolar.dll
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\03ExEscolar.pdb
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\03ExEscolar.genruntimeconfig.cache
+C:\Users\solan\Desktop\OO C#\03ExEscolar\obj\Debug\net6.0\ref\03ExEscolar.dll
